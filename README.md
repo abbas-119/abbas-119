@@ -32,7 +32,7 @@ Working on a micro-mobility management platform has me diving deeper into Satcom
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Abbas Mandasorwala](https://www.linkedin.com/in/abbas-mandasorwala-b76b6a237)
+- **LinkedIn:** [Abbas Mandasorwala](https://www.linkedin.com/in/abbasmandasorwala)
 - **Email:** [abbasmandasorwala4@gmail.com](mailto:abbasmandasorwala4@gmail.com)
 - **GitHub:** [abbas-119](https://github.com/abbas-119)
 
