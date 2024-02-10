@@ -25,16 +25,16 @@ Final-year Computer Science and Artificial Intelligence student at the Universit
 
 - **Lab Demonstrator**, University of Birmingham (October 2023 – Present)
   - Providing hands-on guidance in programming paradigms and full-stack software solution development.
+ 
+## 🌱 I'm currently learning ...
+
+Working on a micro-mobility management platform has me diving deeper into Satcom, SatNav, and SatEO technologies, alongside enhancing my proficiency with Django, Vue.js, Tailwind CSS, Leaflet for maps, and PostgreSQL with PostGIS. This project is sharpening my project management skills and expanding my technical toolkit in creating scalable and secure web solutions.
 
 ## 📫 How to Reach Me
 
 - **LinkedIn:** [Abbas Mandasorwala](https://www.linkedin.com/in/abbas-mandasorwala-b76b6a237)
 - **Email:** [abbasmandasorwala4@gmail.com](mailto:abbasmandasorwala4@gmail.com)
 - **GitHub:** [abbas-119](https://github.com/abbas-119)
-
-## 🌱 I'm currently learning ...
-
-Working on a micro-mobility management platform has me diving deeper into Satcom, SatNav, and SatEO technologies, alongside enhancing my proficiency with Django, Vue.js, Tailwind CSS, Leaflet for maps, and PostgreSQL with PostGIS. This project is sharpening my project management skills and expanding my technical toolkit in creating scalable and secure web solutions.
 
 ## 🤝 How to Contribute to My Projects
 
