@@ -12,7 +12,7 @@ Final-year Computer Science and Artificial Intelligence student at the Universit
 
 - **Languages:** Python, Java, C, SQL, Haskell
 - **Web Development:** HTML, CSS (Tailwind CSS), JavaScript (Vue.js)
-- **Tools & Technologies:** Django, Git, PostgreSQL, Microsoft Office Suite
+- **Tools & Technologies:** Django, Docker, Git, PostgreSQL, MySQL, Microsoft Office Suite
 - **Soft Skills:** Excellent communication, teamwork, and problem-solving skills
 
 ## 💼 Experiences
@@ -28,7 +28,7 @@ Final-year Computer Science and Artificial Intelligence student at the Universit
  
 ## 🌱 I'm currently learning ...
 
-Working on a micro-mobility management platform has me diving deeper into Satcom, SatNav, and SatEO technologies, alongside enhancing my proficiency with Django, Vue.js, Tailwind CSS, Leaflet for maps, and PostgreSQL with PostGIS. This project is sharpening my project management skills and expanding my technical toolkit in creating scalable and secure web solutions.
+Working on a micro-mobility management platform has me diving deeper into Satcom, SatNav, and SatEO technologies, alongside enhancing my proficiency with Django, Vue.js, Tailwind CSS, Leaflet.js for maps, and PostgreSQL with PostGIS. This project is sharpening my project management skills and expanding my technical toolkit in creating scalable and secure web solutions.
 
 ## 📫 How to Reach Me
 
