@@ -14,7 +14,7 @@ Final-year Computer Science and Artificial Intelligence student at the Universit
 - **Web Development:** HTML, CSS (Tailwind CSS), JavaScript (Vue.js)
 - **Tools & Technologies:** Django, Docker, Git, PostgreSQL, MySQL, Microsoft Office Suite
 - **Soft Skills:** Excellent communication, teamwork, and problem-solving skills
-
+<!--
 ## 💼 Experiences
 
 - **Software Development Intern**, Advantari, Bahrain (July 2023 – September 2023)
@@ -25,7 +25,7 @@ Final-year Computer Science and Artificial Intelligence student at the Universit
 
 - **Lab Demonstrator**, University of Birmingham (October 2023 – Present)
   - Providing hands-on guidance in programming paradigms and full-stack software solution development.
- 
+ -->
 ## 🌱 I'm currently learning ...
 
 Working on a micro-mobility management platform has me diving deeper into Satcom, SatNav, and SatEO technologies, alongside enhancing my proficiency with Django, Vue.js, Tailwind CSS, Leaflet.js for maps, and PostgreSQL with PostGIS. This project is sharpening my project management skills and expanding my technical toolkit in creating scalable and secure web solutions.
