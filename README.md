@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-Final-year Computer Science and Artificial Intelligence student at the University of Birmingham, UK, with a strong foundation in Python, Java, and SQL, excelling in both front-end and back-end development. Skilled in web technologies (HTML, CSS, JavaScript) and programming languages (C, Haskell), my time outside coding is spent on football, tennis, and photography.
+Ambitious Computer Science and Artificial Intelligence Graduate from the University of Birmingham. Attained a solid foundation in Python, Java and Database Management (SQL), further enhanced by various hands-on projects. Possess a strong aptitude for both Front-end technologies (HTML, CSS, and JavaScript) and Back-end development. My time outside coding is spent on playing Football, Tennis, and Photography.
 
 ## 📚 Education
 
@@ -21,9 +21,9 @@ Final-year Computer Science and Artificial Intelligence student at the Universit
   - Completed two pivotal projects, showcasing adaptability and commitment to delivering high-quality results.
 
 - **Final Year Project**, University of Birmingham (September 2023- March 2024)
-  - Leading the development of a micro-mobility management platform using Django, Vue.js, and PostgreSQL.
+  - Leading the development of a micro-mobility GIS management platform using Django, Vue.js, and PostgreSQL.
 
-- **Lab Demonstrator**, University of Birmingham (October 2023 – Present)
+- **Lab Demonstrator**, University of Birmingham (October 2023 – April 2024)
   - Providing hands-on guidance in programming paradigms and full-stack software solution development.
  -->
 ## 🌱 I'm currently learning ...
