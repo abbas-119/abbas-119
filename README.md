@@ -10,7 +10,7 @@ Ambitious Computer Science and Artificial Intelligence Graduate from the Univers
   - Focused on Data Structures, Web Development and Artificial Intelligence.
 ## 🛠 Skills
 
-- **Languages:** Python, Java, C, SQL, Haskell
+- **Languages:** Python, Java, C#, SQL, Haskell
 - **Web Development:** HTML, CSS (Tailwind CSS), JavaScript (Vue.js)
 - **Tools & Technologies:** Django, Docker, Git, PostgreSQL, MySQL, Microsoft Office Suite
 - **Soft Skills:** Excellent communication, teamwork, and problem-solving skills
