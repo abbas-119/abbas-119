@@ -26,7 +26,7 @@ Computer Science & Artificial Intelligence graduate from the University of Birmi
 - **Lab Demonstrator**, University of Birmingham (October 2023 – April 2024)
   - Providing hands-on guidance in programming paradigms and full-stack software solution development.
  -->
-## 🌱 I'm currently learning ...
+## 🌱 I'm currently ...
 
 Developing cross-platform mobile applications using React Native (Expo) with scalable backend APIs
 
