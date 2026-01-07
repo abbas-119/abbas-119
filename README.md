@@ -1,8 +1,8 @@
-# Hi there, I'm Abbas Ali Asgar Mandasorwala! 👋
+# Hi there, I'm Abbas Mandasorwala! 👋
 
 ## 👨‍💻 About Me
 
-Ambitious Computer Science and Artificial Intelligence Graduate from the University of Birmingham. Attained a solid foundation in Python, Java and Database Management (SQL), further enhanced by various hands-on projects. Possess a strong aptitude for both Front-end technologies (HTML, CSS, and JavaScript) and Back-end development. My time outside coding is spent on playing Football, Tennis, and Photography.
+Computer Science & Artificial Intelligence graduate from the University of Birmingham with hands-on experience in full-stack development, mobile applications, and data-driven systems. Proven ability to build scalable applications using React Native, Node.js, Django, and SQL, with industry exposure across FinTech, GIS systems, and regulatory platforms. Strong problem-solver with experience working in agile, cross-functional teams.
 
 ## 📚 Education
 
@@ -28,7 +28,7 @@ Ambitious Computer Science and Artificial Intelligence Graduate from the Univers
  -->
 ## 🌱 I'm currently learning ...
 
-Working on a micro-mobility management platform has me diving deeper into Satcom, SatNav, and SatEO technologies, alongside enhancing my proficiency with Django, Vue.js, Tailwind CSS, Leaflet.js for maps, and PostgreSQL with PostGIS. This project is sharpening my project management skills and expanding my technical toolkit in creating scalable and secure web solutions.
+Developing cross-platform mobile applications using React Native (Expo) with scalable backend APIs
 
 ## 📫 How to Reach Me
 
