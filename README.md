@@ -1,70 +1,111 @@
-# Hi there, I'm Abbas Mandasorwala! 👋
+# Hi, I'm Abbas Mandasorwala 👋
 
 ## 👨‍💻 About Me
 
-Computer Science & Artificial Intelligence graduate from the University of Birmingham with hands-on experience in full-stack development, mobile applications, and data-driven systems. Proven ability to build scalable applications using React Native, Node.js, Django, and SQL, with industry exposure across FinTech, GIS systems, and regulatory platforms. Strong problem-solver with experience working in agile, cross-functional teams.
+I’m a Full Stack Software Engineer with experience building secure fintech, cryptocurrency, geospatial, and internal business applications.
 
-## 📚 Education
+Currently, I’m working at **GFX Securities**, where I contribute to two financial applications: a cryptocurrency trading platform and an in-house trading system. I also support and guide two junior developers across both projects.
 
-**BSc Artificial Intelligence and Computer Science**, University of Birmingham (2021 - 2024)
-  - Focused on Data Structures, Web Development and Artificial Intelligence.
-## 🛠 Skills
+I enjoy building scalable mobile and web applications, integrating APIs, solving complex technical problems, and creating reliable user-focused products.
 
-- **Languages:** Python, Java, C#, SQL, Haskell
-- **Web Development:** HTML, CSS (Tailwind CSS), JavaScript (Vue.js)
-- **Tools & Technologies:** Django, Docker, Git, PostgreSQL, MySQL, Microsoft Office Suite
-- **Soft Skills:** Excellent communication, teamwork, and problem-solving skills
-<!--
-## 💼 Experiences
+## 🚀 What I'm Working On
 
-- **Software Development Intern**, Advantari, Bahrain (July 2023 – September 2023)
-  - Completed two pivotal projects, showcasing adaptability and commitment to delivering high-quality results.
+- Developing cross-platform applications using React Native and Expo
+- Building secure financial and trading features
+- Integrating real-time market data and third-party APIs
+- Working with authentication, RBAC, wallets, payments, and trading workflows
+- Supporting junior developers through technical guidance and code reviews
 
-- **Final Year Project**, University of Birmingham (September 2023- March 2024)
-  - Leading the development of a micro-mobility GIS management platform using Django, Vue.js, and PostgreSQL.
+## 🛠️ Technical Skills
 
-- **Lab Demonstrator**, University of Birmingham (October 2023 – April 2024)
-  - Providing hands-on guidance in programming paradigms and full-stack software solution development.
- -->
-## 🌱 I'm currently ...
+**Frontend & Mobile**
 
-Developing cross-platform mobile applications using React Native (Expo) with scalable backend APIs
+React Native, Expo, Vue.js, JavaScript, TypeScript, HTML, Tailwind CSS
 
-## 📫 How to Reach Me
+**Backend**
 
+Node.js, Django, PHP, REST APIs, Authentication, RBAC
+
+**Languages**
+
+Python, Java, JavaScript, TypeScript, SQL, Haskell
+
+**Databases**
+
+MySQL, PostgreSQL, PostGIS
+
+**Tools & Technologies**
+
+Git, GitHub, GitLab, Docker, GeoServer, QGIS
+
+## 💼 Experience
+
+### Full Stack Developer — GFX Securities
+**January 2025 – Present**
+
+- Developing a production cryptocurrency trading application using React Native
+- Contributing to an in-house trading and client-management platform
+- Integrating secure APIs, real-time market data, wallet features, and payment workflows
+- Implementing authentication and role-based access control
+- Managing and supporting two junior developers across both projects
+
+### GIS Application Developer — Citupia
+**October 2023 – September 2024**
+
+- Built a GIS-based micro-mobility platform using Django, Vue.js, and PostGIS
+- Worked with GeoServer, QGIS, WMS, and WFS technologies
+- Improved spatial database performance and application scalability
+
+### Software Development Intern — Advantari
+**July 2023 – September 2023**
+
+- Developed an internal regulatory compliance platform
+- Worked across requirements gathering, development, testing, and delivery
+
+### Teaching Assistant — University of Birmingham
+**September 2023 – April 2024**
+
+- Supported Functional Programming and Full Stack Application Development labs
+- Guided students through programming concepts and software development tasks
+
+## 🎓 Education
+
+**BSc Artificial Intelligence and Computer Science**  
+University of Birmingham — 2021–2024  
+Upper Second-Class Honours, 2:1
+
+## 🌐 Connect With Me
+
+- **Portfolio:** [abbas-119.github.io/portfolio](https://abbas-119.github.io/portfolio)
 - **LinkedIn:** [Abbas Mandasorwala](https://www.linkedin.com/in/abbasmandasorwala)
 - **Email:** [abbasmandasorwala4@gmail.com](mailto:abbasmandasorwala4@gmail.com)
-- **GitHub:** [abbas-119](https://github.com/abbas-119)
 
-## 🤝 How to Contribute to My Projects
+## 💻 Tech Stack
 
-I'm always open to collaboration and contributions to my projects. If you're interested, feel free to fork the repository, create a new branch for your contributions, and submit a pull request. For any discussions or clarifications, raise an issue or contact me directly.
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📊 GitHub Stats
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Abbas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbas-119&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abbas-119&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abbas-119&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abbas-119&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abbas-119&theme=dark&hide_border=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=abbas-119&icon=0&color=0)](https://visitcount.itsvg.in)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbas-119&theme=dark&hide_border=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤝 Collaboration
 
-<!--
-**abbas-119/abbas-119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m open to collaborating on projects involving fintech, mobile applications, trading platforms, APIs, GIS systems, and full-stack development.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories, open an issue, or contact me directly.
